@@ -31,7 +31,7 @@ The purpose of the dashboard is to help users quickly understand **sales perform
 ---
 
 ## 📸 Snapshot
-![Car Market Analysis Dashboard](Snapshot%20of%20Dashboard.png)
+![Car Market Analysis Dashboard]https://github.com/MadihaLodhi/car-market-analysis-dashboard/blob/main/Snapshot%20of%20Dashboard%20png.png
 
 ---
 
